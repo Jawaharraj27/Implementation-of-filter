@@ -1,3 +1,5 @@
+# Developed By: JAWAHAR RAJ N
+# Register Number: 212223240057
 # Implementation-of-filter
 ## Aim:
 To implement filters for smoothing and sharpening the images in the spatial domain.
@@ -23,7 +25,8 @@ End the program.
 
 ## Program:
 
-
+# Developed By: JAWAHAR RAJ N
+# Register Number: 212223240057
 
 ### 1. Smoothing Filters
 
@@ -110,3 +113,5 @@ plt.show()
 
 ## Result:
 Thus the filters are designed for smoothing and sharpening the images in the spatial domain.
+# Developed By: JAWAHAR RAJ N
+# Register Number: 212223240057
